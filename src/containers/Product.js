@@ -172,7 +172,7 @@ function Product(props) {
             <h1>Product</h1>
             <button onClick={handleMobile}>Mobile</button>
             <button>PC</button>
-            <button>Laptop</button>
+            <button>test2</button>
             <Row>
                 {
                     data.map((v) => {
